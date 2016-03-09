@@ -1,0 +1,4 @@
+
+          module.exports = require("/Users/sergebornow/Documents/mystuff/surge/drivetimereact/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js");
+          require("/Users/sergebornow/Documents/mystuff/surge/drivetimereact/node_modules/react-native/packager/transformer.js");
+          
